@@ -23,6 +23,6 @@ We've also provided a file that should support launching from VS Code that will 
 
 This project is intended as a sandbox for you to learn about GitHub and contributing to Open Source. We're accepting most changes in support of that!
 
-## Aknowledgements
+
 
 
